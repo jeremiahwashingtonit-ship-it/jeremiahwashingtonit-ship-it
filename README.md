@@ -14,7 +14,7 @@ Certified IT professional with a strong foundation in networking, systems admini
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory creation        | <a href="https://github.com/jeremiahwashingtonit-ship-it/Active-Directory-setup-lab">Installing Active Directory on Windows Server on Virtual Machine</a>|
-| (Group Policy Managment) GPM | <a href="https://google.com">Creating and Setting up GPO</a>|
+| (Group Policy Managment) GPM | <a href="https://github.com/jeremiahwashingtonit-ship-it/Group-Policy-Management-/blob/main/README.md">Creating and Setting up GPO</a>|
 
 
 
